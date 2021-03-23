@@ -32,6 +32,11 @@ My name is Quan Phan, based of Philadelphia, U.S and I'm a software development 
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=24ccf2)
 <br>
+![](https://img.shields.io/badge/AI/ML-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/AI/ML-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/AI/ML-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/AI/ML-Scikit-informational?style=flat&logo=scikit-learn&logoColor=white&color=24ccf2)
+<br>
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Cloud-Azure_DevOps-informational?style=flat&logo=azuredevops&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=24ccf2)
