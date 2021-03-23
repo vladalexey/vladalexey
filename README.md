@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Quan Phan, based of Philadelphia, U.S and I'm a software development engineer intern at Amazon
+My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a software development engineer intern at Amazon
 
 - 🔭 I’m currently working on an food recipe mobile app with Flutter for frontend and Nodejs/Postgresql for backend
 - 🌱 I’m currently learning Reactjs, Flutter and Machine Learning
@@ -48,7 +48,7 @@ My name is Quan Phan, based of Philadelphia, U.S and I'm a software development 
 ## Github Stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="30px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladalexey&count_private=true&show_icons=true&&theme=cobalt&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=7&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=10&hide_title=true&hide=c,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
