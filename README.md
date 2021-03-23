@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Quan Phan, based of Philadelphia, U.S and I'm a software development engineer intern at Amazon
+
 - 🔭 I’m currently working on an food recipe mobile app with Flutter for frontend and Nodejs/Postgresql for backend
 - 🌱 I’m currently learning Reactjs, Flutter and Machine Learning
 - 💬 Ask me about how I become a vegan and thus came up with my food recipe mobile app
