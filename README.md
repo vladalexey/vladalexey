@@ -18,7 +18,29 @@ My name is Quan Phan, based of Philadelphia, U.S and I'm a software development 
 
 <hr>
 
-## Github Stats
+## Tech Stack <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/techstack.gif" width="30px">
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-Angular.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-Flutter-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+<br>
+![](https://img.shields.io/badge/Tool-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Tool-Azure_DevOps-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+![](https://img.shields.io/badge/Tool-Postgresql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=24ccf2)
+
+<hr>
+
+## Github Stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="30px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladalexey&count_private=true&show_icons=true&&theme=cobalt&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=7&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
