@@ -1,6 +1,6 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a software development engineer intern at Amazon
+My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software Development Engineer Intern at Amazon</b>
 
 - 🔭 I’m currently working on an food recipe mobile app with Flutter for frontend and Nodejs/Postgresql for backend
 - 🌱 I’m currently learning Reactjs, Flutter and Machine Learning
