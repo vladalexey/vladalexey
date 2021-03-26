@@ -2,7 +2,7 @@
 
 My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software Development Engineer Intern at Amazon</b>
 
-- 🔭 I’m currently working on an food recipe mobile app with Flutter for frontend and Nodejs/Postgresql for backend
+- 🔭 I’m currently working on a food recipe mobile app with Flutter for frontend and Nodejs/Postgresql for backend
 - 🌱 I’m currently learning Reactjs, Flutter and Machine Learning
 - 💬 Ask me about how I become a vegan and thus came up with my food recipe mobile app
 - 📫 How to reach me: LinkedIn [![LinkedIn][1.2]][1].
@@ -51,6 +51,4 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=10&hide_title=true&hide=c,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-
-
 
