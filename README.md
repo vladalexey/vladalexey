@@ -24,6 +24,7 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=24ccf2)
+<br>
 ![](https://img.shields.io/badge/Framework-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Framework-Angular.js-informational?style=flat&logo=angularjs&logoColor=white&color=24ccf2)
 ![](https://img.shields.io/badge/Framework-React.js-informational?style=flat&logo=react&logoColor=white&color=24ccf2)
@@ -48,7 +49,7 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 ## Github Stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="30px">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladalexey&count_private=true&show_icons=true&&theme=cobalt&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=10&hide_title=true&hide=c,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=10&theme=cobalt&hide_title=true&hide=c,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
