@@ -48,8 +48,7 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 
 ## Github Stats <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/graph.gif" width="30px">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladalexey&count_private=true&show_icons=true&&theme=cobalt&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=10&theme=cobalt&hide_title=true&hide=c,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
+<img alt="GitHub stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=vladalexey&count_private=true&show_icons=true&&theme=cobalt&hide_title=true" href="#" />
+<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladalexey&layout=compact&langs_count=10&theme=cobalt&hide_title=true&hide=c,jupyter%20notebook,html" />
 <hr>
 
