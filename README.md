@@ -2,7 +2,7 @@
 
 My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software Development Engineer Intern at Amazon</b>
 
-- 🔭 I’m currently working on a food recipe mobile app with Flutter for frontend and Nodejs/Postgresql for backend
+- 🔭 I’m currently working on a food recipe mobile app on [App Store][1.3] with Flutter for frontend and Nodejs/Postgresql for backend. 
 - 🌱 I’m currently learning Reactjs, Flutter and Machine Learning
 - 💬 Ask me about how I become a vegan and thus came up with my food recipe mobile app
 - 📫 How to reach me: LinkedIn [![LinkedIn][1.2]][1].
@@ -11,6 +11,7 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 <!-- Icons -->
 
 [1.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.3]: https://apps.apple.com/us/app/boul/id1559151681
 
 <!-- Links to your social media accounts -->
 
