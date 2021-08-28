@@ -6,7 +6,7 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 - 🌱 I’m currently learning Reactjs, Flutter and Machine Learning
 - 💬 Ask me about how I become a vegan and thus came up with my food recipe mobile app
 - 📫 How to reach me: [LinkedIn][1.4].
-- ⚡ Fun fact: I'm vegan 🥦 and I love to hike 🧗‍♂️
+- ⚡ Fun fact: I'm vegan 🥦 and I love to [hike][1.5] 🧗‍♂️
 
 <!-- Icons -->
 
@@ -15,7 +15,7 @@ My name is <b>Quan Phan</b>, based of Philadelphia, U.S and I'm a <b>Software De
 <!-- Links to your social media accounts -->
 
 [1.4]: https://www.linkedin.com/in/minh-quan-phan
-
+[1.5]: https://www.instagram.com/_vladimirovichalexey_/
 <hr>
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/vladalexey/vladalexey/main/techstack.gif" width="30px">
